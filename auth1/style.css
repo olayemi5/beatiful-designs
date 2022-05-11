@@ -1,0 +1,72 @@
+body {
+  font-family: 'Maven Pro', sans-serif;
+  background: rgba(200, 224, 254);
+}
+.indicatior{
+  border: 2px solid red;
+}
+.padding {
+  padding: 30px;
+}
+.justifier{
+  margin: 50px;
+  margin-top: 10px;
+}
+.login-form{
+  border-radius: 19px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  z-index: 1
+}
+.login-info-layer{
+  background-image: url('assets/imd.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px;
+  margin-right: -70px;
+  position: relative;
+}
+.headerClass{
+  font-size: 25px;
+  font-family:sans-serif;
+}
+.options-btn{
+  border: 1px solid #cad2db;
+  border-radius: 30px;
+}
+.options-btn2{
+  border: 1px solid #cad2db;
+  border-radius: 30px;
+  background-color: white;
+  color: #01125e;
+}
+.styled-input{
+  border-radius: 30px;
+}
+.emphazise{
+  color: #05489c;
+}
+.emphazise-solid{
+  color: #01125e;
+}
+.emphazise-bg{
+  background-color: #0b69de;
+  color: white;
+}
+.info-layer-details{
+  position: absolute;
+  bottom: 20px;
+  width: 85%;
+  align-items: center;
+  text-align: center;
+}
+.pointer{
+  cursor: pointer;
+}
+
+
+
+
+
+/*     font-family: 'Barlow Condensed', sans-serif;
+
+    font-family: 'Maven Pro', sans-serif; */
