@@ -2,18 +2,34 @@ body {
   font-family: 'Maven Pro', sans-serif;
   background: rgba(162, 190, 222);
 }
+
 .top-spacing{
-  margin-top: 100px;
+  margin-top: 90px;
+  margin-bottom: 90px;
 }
 .content{
   background: white;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;
   border-radius: 7px;
+  position: relative;
+  overflow:hidden
 }
 .emphazise-btn{
-  background : #0f66d4;
+  background : black;
   color: white;
   border-radius: 30px;
+}
+.mock-1{
+  position: absolute;
+  transform: rotate(12deg);
+  bottom:-350px;
+  left:-140px;
+}
+.mock-2{
+  position: absolute;
+  transform: rotate(176deg);
+  top:-350px;
+  right:-120px;
 }
 .emphazise{
   color: #0f66d4;
