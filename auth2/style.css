@@ -23,13 +23,13 @@ body {
   position: absolute;
   transform: rotate(12deg);
   bottom:-350px;
-  left:-140px;
+  left:-150px;
 }
 .mock-2{
   position: absolute;
-  transform: rotate(176deg);
+  transform: rotate(186deg);
   top:-350px;
-  right:-120px;
+  right:-150px;
 }
 .emphazise{
   color: #0f66d4;
@@ -46,5 +46,5 @@ body {
 }
 .font-small{
   font-family: monospace;
-  font-size: 10
+  font-size: 20px;
 }
