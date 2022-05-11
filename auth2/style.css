@@ -1,13 +1,13 @@
 body {
   font-family: 'Maven Pro', sans-serif;
-  background: rgba(200, 224, 254);
+  background: rgba(162, 190, 222);
 }
 .top-spacing{
   margin-top: 100px;
 }
 .content{
   background: white;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;
   border-radius: 7px;
 }
 .emphazise-btn{
