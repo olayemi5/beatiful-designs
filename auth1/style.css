@@ -24,6 +24,7 @@ body {
   border-radius: 30px;
   margin-right: -70px;
   position: relative;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
 }
 .headerClass{
   font-size: 25px;
@@ -38,12 +39,16 @@ body {
   border-radius: 30px;
   background-color: white;
   color: #01125e;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 .styled-input{
   border-radius: 30px;
 }
 .emphazise{
   color: #05489c;
+}
+.shadow{
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
 }
 .emphazise-solid{
   color: #01125e;
