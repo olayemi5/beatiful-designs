@@ -7,12 +7,12 @@ body{
   overflow: hidden;
 }
 .mock-image{
-  width:100%;
+  width:1570px;
   height: 600px;
-  border-radius: 80px;
+  border-radius: 100px;
   background: #ffffff;
   position: absolute;
   bottom: -1050px;
-  left: -50px;
-  transform: rotate(199deg);
+  left: -40px;
+  transform: rotate(190deg);
 }
